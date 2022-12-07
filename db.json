@@ -46,21 +46,21 @@
       "id": 97,
       "nombre": "Raczy Jacinto",
       "apellido": "Lopez Lopez",
-      "ingresos": $6589,
+      "ingresos": "$6589",
       "direccion": "Av. Perú 7689"
     },
     {
       "id": 85,
       "nombre": "Ariana Nicole",
       "apellido": "Chavez Arellano",
-      "ingresos": $6952,
+      "ingresos": "$6952",
       "direccion": "Av. Proceres 29"
     },
     {
       "id": 36,
       "nombre": "Luisa",
       "apellido": "Luna Del Sol",
-      "ingresos": $21365,
+      "ingresos": "$21365",
       "direccion": "Jr. Quilca 586"
     }
   ],
