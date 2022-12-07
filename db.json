@@ -1,0 +1,71 @@
+{
+  "socios": [
+    {
+      "id": 81,
+      "nombre": "Aristides Met",
+      "apellido": "Tapia Garcia",
+      "ingresos": "$1500",
+      "direccion": "Av. Las Palmeras 789"
+    },
+    {
+      "id": 62,
+      "nombre": "Luis Enrique",
+      "apellido": "Lopez Venegas",
+      "ingresos": "$2500",
+      "direccion": "Av. Surco 455"
+    },
+    {
+      "id": 53,
+      "nombre": "Lia Susana",
+      "apellido": "Suarez Arango",
+     "ingresos": "$9600",
+      "direccion": "Av. Las Larcp 7549"
+    },
+    {
+      "id": 58,
+      "nombre": "Juan Luis",
+      "apellido": "Durango Lima",
+      "ingresos": "$1500",
+      "direccion": "Av. Miraflores 7559"
+    },
+    {
+      "id": 19,
+      "nombre": "Gianella Katia",
+      "apellido": "Solis Mori",
+     "ingresos": "$100",
+      "direccion": "Av. Brasil 789"
+    },
+    {
+      "id": 42,
+      "nombre": "Fernando Nicolas",
+      "apellido": "Lee Son",
+   "ingresos": "$5885",
+      "direccion": "Av. Izaguirre 549"
+    },
+    {
+      "id": 97,
+      "nombre": "Raczy Jacinto",
+      "apellido": "Lopez Lopez",
+      "ingresos": $6589,
+      "direccion": "Av. Perú 7689"
+    },
+    {
+      "id": 85,
+      "nombre": "Ariana Nicole",
+      "apellido": "Chavez Arellano",
+      "ingresos": $6952,
+      "direccion": "Av. Proceres 29"
+    },
+    {
+      "id": 36,
+      "nombre": "Luisa",
+      "apellido": "Luna Del Sol",
+      "ingresos": $21365,
+      "direccion": "Jr. Quilca 586"
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
